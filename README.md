@@ -21,6 +21,10 @@ You can install it from GitHub repository
 ```console
 $ python -m pip install git+https://github.com/abdu-a01/Students-Mark.git
 ```
+or use
+```console
+$ python -m pip install https://github.com/abdu-a01/Students-Mark/archive/refs/heads/master.zip
+```
 Students Mark supports python 3.8+.
 
 ## supported features & Best-practices
